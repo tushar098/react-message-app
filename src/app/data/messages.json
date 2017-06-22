@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "body": "see you later",
+        "date": "19/03/2016 20:17",
+        "from": "a",
+        "to": "anaketa"
+    },
+    {
+        "id": 2,
+        "body": "Where are you?",
+        "date": "09/04/2016 08:45",
+        "from": "b",
+        "to": "anaketa"
+    },
+    {
+        "id": 3,
+        "body": "Haloo??",
+        "date": "19/04/2016 16:23",
+        "from": "tushar",
+        "to": "anaketa"
+    },
+    {
+        "id": 1461684820185,
+        "body": "waiting..",
+        "date": "26/04/2016 10:03",
+        "from": "tushy",
+        "to": "anaketa"
+    },
+    {
+        "id": 1461684998741,
+        "body": "hey!! Long time i don't hear from you!",
+        "date": "26/04/2016 18:43",
+        "from": "b1",
+        "to": "anaketa"
+    },
+    {
+        "id": 1461695721589,
+        "body": "true that!",
+        "date": "26/04/2016 08:35",
+        "from": "gigi",
+        "to": "anaketa"
+    },
+    {
+        "id": 1461763368501,
+        "body": "what a nice weather today!",
+        "date": "27/04/2016 03:22",
+        "from": "a",
+        "to": "anaketa"
+    },
+    {
+        "id": 1461764031123,
+        "body": "When you want!",
+        "date": "27/04/2016 03:33",
+        "from": "b",
+        "to": "anaketa"
+    },
+    {
+        "id": 1498014773642,
+        "body": "hi there",
+        "date": "21/06/2017 08:42",
+        "from": "b1",
+        "to": "anaketa"
+    },
+    {
+        "id": 1498014804636,
+        "body": "yes",
+        "date": "21/06/2017 08:43",
+        "from": "tushar",
+        "to": "anaketa"
+    },
+    {
+        "id": 1498061019920,
+        "body": "hihell",
+        "date": "21/06/2017 09:33",
+        "from": "gigi",
+        "to": "anaketa"
+    }
+]
