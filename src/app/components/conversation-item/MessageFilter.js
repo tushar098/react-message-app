@@ -27,7 +27,7 @@ export default class MessageFilter extends React.Component {
       <form>
         <input
           type="text"
-          placeholder="write name"
+          placeholder="write your message"
           value={this.state.filter}
           onChange={this.applyFilter.bind(this)}
         />
